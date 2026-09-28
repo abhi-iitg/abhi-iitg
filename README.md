@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Kumar Gond 👋
 
-### IIT Guwahati | Data • Analytics • ML • Product
+### B.Tech in Chemical Engineering @ IIT Guwahati | Data • Analytics • ML • Product
 
 I’m a B.Tech student at **Indian Institute of Technology Guwahati** with a strong interest in **Data Analytics, Machine Learning, and Product Management**.
 
