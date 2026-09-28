@@ -2,7 +2,7 @@
 
 ### B.Tech in Chemical Engineering @ IIT Guwahati | Data • Analytics • ML • Product
 
-I’m a B.Tech student at **Indian Institute of Technology Guwahati** with a strong interest in **Data Analytics, Machine Learning, and Product Management**.
+I’m a B.Tech student at **Indian Institute of Technology Guwahati** with a strong interest in **Data & Analytics, Machine Learning, and Product Management**.
 
 I enjoy solving real-world problems by combining **data, technology, and business thinking** — from analyzing data and building predictive models to designing decision systems and translating insights into actionable product and business decisions.
 
